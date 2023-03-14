@@ -23,7 +23,7 @@
 首先在你的 Linux 服务器\* 上下载脚本：
 
 ```bash
-wget -O openvpn.sh https://get.vpnsetup.net/ovpn
+wget -O openvpn.sh https://raw.githubusercontent.com/wf0719001030/openvpn-install/master/openvpn-install.sh
 ```
 
 **选项 1:** 使用默认选项自动安装 OpenVPN。
